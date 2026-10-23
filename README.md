@@ -1,22 +1,29 @@
 <div align="center">
 
-  <!-- دولقۇنلۇق زامانىۋى باشنامە رەسىمى -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Uy%20Alqish&fontSize=52&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Architect%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=58" width="100%" alt="Header" />
+  <!-- ئوقۇغىن نامىدىكى زامانىۋى نېئون دولقۇنلۇق باشنامە رەسىمى -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:7928CA&height=220&section=header&text=Oqughin%20%7C%20ئوقۇغىن&fontSize=48&fontAlignY=40&animation=twinkling&desc=Relentless%20Builder%20%E2%80%A2%20Deep%20Worker%20%E2%80%A2%20System%20Architect&descFontSize=18&descAlignY=62" width="100%" alt="Header" />
 
-  <!-- ئۆزلۈكىدىن يېزىلىپ تۇرىدىغان جانلىق تېكىست رەسىمى -->
+  <br/>
+
+  <!-- كود يېزىش ۋە تىرىشچانلىق ھالىتىنى نامايان قىلىدىغان كىبېر GIF كۆرۈنۈشى -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Non-Stop" />
+
+  <br/><br/>
+
+  <!-- ئۆزلۈكىدىن قايناپ يېزىلىدىغان تىرىشچانلىق تېكىستلىرى -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+High-Performance+Web+Systems;Crafting+Zero-Telemetry+Automation+Pipelines;Architecting+Interactive+3D+Engines+%26+WebGL;Manifest+V3+Extensions+%7C+Python+Ecosystem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=100%25+Dedication+%7C+Day+In%2C+Day+Out+Code+Grind;Building+High-Speed+Engines+%26+Offline-First+Architectures;Zero+Excuses+%E2%80%A2+Continuous+Commitment+%E2%80%A2+Clean+Logic;Translating+Complex+Problems+Into+Flawless+Automations" alt="Hardcore Dev Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### ⚡ مەركىزىي نۇقتىلار
+### ⚡ دەرىجىدىن تاشقىرى ئىنتىزام ۋە شوئار
 
 ```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  • Architecture : Privacy-First • Offline-Ready • Low-Ops   │
-│  • Graphics     : Three.js • WebGL • Procedural Audio       │
-│  • Automation   : Python AST • DOM Automation • Batch I/O   │
-└─────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════╗
+║  STATUS     : Deep Focus Mode [ON]                                     ║
+║  MINDSET    : "Code relentlessly, refactor mercilessly, learn daily."   ║
+║  EXECUTION  : 0% Noise • 100% Signal • Zero-Telemetry High Output     ║
+╚════════════════════════════════════════════════════════════════════════╝
